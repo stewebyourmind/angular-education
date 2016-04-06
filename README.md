@@ -92,6 +92,7 @@ If you want to add a resource please open a new issue or comment on an existing 
 #### Classes
 * [Angular Course](https://www.angularcourse.com)
 * [egghead.io - Video Tutorials](https://www.egghead.io/)
+* [AngularJS for the Real World - Learn by creating a WebApp - Video Tutorials](https://www.udemy.com/angularjs-for-the-real-world-learn-to-create-a-webapp/?couponCode=gitdev20A)
 
 #### Magazines/Blogs
 * [AngularJS Daily](http://www.angularjsdaily.com/)
